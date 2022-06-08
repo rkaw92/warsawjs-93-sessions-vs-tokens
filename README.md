@@ -1,23 +1,10 @@
-# WarsawJS Meetup: Slides template
+# Sessions vs Tokens
 
-:clipboard: Slides for `WarsawJS Meetup`
+:clipboard: Slides for `WarsawJS Meetup #93`
 
 ## Preview 🚀
 
-<https://warsawjs.github.io/meetup-slides-template>
-
-## :bulb: How to use this template?
-
-1. Fork this project
-2. Rename project (with snake-case style)
-3. Update `description` and `link` on GitHub repository profile
-4. In `index.html`:
-    + `<title>` & `<h1>` tags should have title of your talk
-    + Update link to `"Fork me on GitHub"` at the bottom of document
-5. In `README.md`:
-    + Update main header (in first file)
-    + Update `Preview` link
-    + Remove this tutorial
+https://rkaw92.github.io/warsawjs-93-sessions-vs-tokens/
 
 ## Organization logo
 
@@ -25,4 +12,4 @@
 
 ## License
 
-[The MIT License](http://en.wikipedia.org/wiki/MIT_License) @ 2018
+[The MIT License](http://en.wikipedia.org/wiki/MIT_License) @ 2022
